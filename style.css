@@ -3,6 +3,9 @@
   display: block; /* Display the additional information */
 }
 
+.bgcolor{
+  background: gray;
+}
 
 /* --------------------------------------------------------------
 # Footer
